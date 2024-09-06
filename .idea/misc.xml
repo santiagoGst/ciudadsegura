@@ -1,0 +1,18 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ALFONSO/AndroidStudioProjects/geo/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/ALFONSO/AndroidStudioProjects/geo/app/src/main/res/layout/activity_ubicaciones_realizadas.xml" value="0.18614130434782608" />
+        <entry key="..\:/Users/ALFONSO/AndroidStudioProjects/geo/app/src/main/res/layout/activity_ultima_localizacion.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/ALFONSO/AndroidStudioProjects/geo/app/src/main/res/layout/activity_zonas.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

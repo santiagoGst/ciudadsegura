@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Ciudad+Segura</string>
+    <string name="btn_agregar">Guardar Ubicación</string>
+    <string name="btn_mostrar">Ultimas Ubicaciones</string>
+    <string name="btn_agregarzona">Zonas</string>
+    <string name="btn_mapa">Ver mapa</string>
+    <string name="btn_generar_reporte">Generar reporte</string>
+    <string name="btn_ver_reportes">Ver reportes</string>
+
+
+    <string name="txt_id">Id</string>
+    <string name="txt_nombrezona">Nombre Zona</string>
+    <string name="txt_fecha">Fecha</string>
+    <string name="txt_riesgo">Id Riesgo</string>
+    <string name="txt_nivel">Nivel</string>
+    <string name="label_Latitud">Latitud</string>
+    <string name="label_Longitud">Longitud</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_login">Iniciar sesión</string>
+    <string name="label_mail">Correo:</string>
+    <string name="hint_mail">Correo electrónico</string>
+    <string name="label_password">Contraseña:</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="title_logup">Registrarse</string>
+    <string name="label_name">Nombre(s):</string>
+    <string name="hint_name">Nombre(s)</string>
+    <string name="label_last_name">Apellidos:</string>
+    <string name="hitn_apellidos">Apellidos</string>
+    <string name="label_sex">Sexo:</string>
+    <string name="label_confirm_password">Confirmar contraseña:</string>
+    <string name="radio_masculino">Masculino</string>
+    <string name="radio_femenino">Femenino</string>
+    <string name="hint_confirm_password">Escriba la misma contraseña</string>
+    <string name="btn_registrar">Continuar</string>
+
+    <string name="title_nuevo_reporte">Nuevo Reporte</string>
+    <string name="label_tipo_delito">¿Cuál es el suceso a reportar?</string>
+    <string name="label_fecha_delito">Fecha del suceso:</string>
+    <string name="label_hora_delito">Hora del suceso:</string>
+    <string name="label_descripcion_delito">Descripción de los hechos:</string>
+    <string name="btn_enviar_reporte">Enviar reporte</string>
+
+
+    <string name="title_ver_reportes">Ver reportes</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cerrar_sesion_item">Cerrar sesión</string>
+    <string name="configuracion_item">Configuración</string>
+
+
+    <string name="title_nivel_inseguridad">Nivel de inseguridad</string>
+    <string name="title_sucesos">Sucesos</string>
+
+    <string name="label_nuevo_reporte_ubicacion">Selecciona la calle utilizando el mapa</string>
+    <string name="label_nuevo_reporte_suceso">¿Cuál es el suceso a reportar?</string>
+    <string name="label_nuevo_reporte_frecuencia">Indica la frecuencia del suceso ocurrido</string>
+
+
+</resources>
